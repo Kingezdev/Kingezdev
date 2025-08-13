@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kingezdev
 - 👀 I’m interested in becoming a software developer 
-- 🌱 I’m currently learning webdeveloopment using pythin (django framework)
+- 🌱 I’m currently building an awaesome 2d game with godot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact me on bewisrael@gmail.com im currently developing a portfolio site so... till then 
+- 📫 How to reach me contact me on bewisrael@gmail.com 
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: Im Nigerian
 
