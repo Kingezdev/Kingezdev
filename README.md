@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kingezdev
-- 👀 I’m interested in becoming a software developer 
-- 🌱 I’m currently building an awaesome 2d game with godot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact me on bewisrael@gmail.com 
+- 👋 Hi, I’m Kingez
+- 👀 Just a regular dev 
+- 🌱 I’m currently building an awaesome 2d game with godot, backend with django rest and a pro wordpress dev
+- 💞️ I’m looking to collaborate on everything
+- 📫 How to reach me contact me on bweisrael@gmail.com 
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: Im Nigerian
 
