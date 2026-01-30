@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kingez
 - 👀 Just a regular dev 
-- 🌱 I’m currently building an awaesome 2d game with godot, backend with django rest and a pro wordpress dev
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me contact me on bweisrael@gmail.com 
 - 😄 Pronouns: HIM
