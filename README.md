@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Kingez
-- 👀 Just a regular dev 
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me contact me on bweisrael@gmail.com 
-- 😄 Pronouns: HIM
-- ⚡ Fun fact: Im Nigerian
+Hi, I'm Israel James — Full-Stack Developer from Jos, Nigeria
 
-<!---
-Kingezdev/Kingezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build web apps, APIs, and the occasional game. My stack revolves around Python (Django) and React.js, with experience across REST APIs, real-time systems, e-commerce platforms, and AI-powered tools.
+
+Currently working on GreenGrass — a property listing platform with real-time chat
+
+Building SellMyStuff — a full Django marketplace (in progress)
+
+Always learning — currently diving deeper into C# and exploring game dev with Godot
+
+Tech I work with:
+Python Django React.js REST APIs PostgreSQL Docker WordPress Godot
+
+Reach me: bweisrael@gmail.com
